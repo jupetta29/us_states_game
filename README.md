@@ -1,1 +1,1 @@
-# us_states_game
+# U.S. States Game
